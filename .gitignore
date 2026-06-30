@@ -1,0 +1,21 @@
+# Model file (too large for GitHub)
+*.pth
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temp files
+tempCodeRunnerFile.*
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
